@@ -17,5 +17,4 @@ def selectionSort(arr):
 
 print("输入你想排序的数字，中间用空格隔开, 回车键结束输入。")
 arr = input().split()
-#print(str)
 print(selectionSort(arr))
